@@ -18,6 +18,21 @@ A hybrid AI model for detecting and classifying the five stages of Diabetic Reti
 - 🧠 Integration of CNN and Vision Transformers.
 - 🌐 Web-based interface for easy access by healthcare professionals.
 
+### [Flappy Kiki's Delivery Service](https://github.com/Shatha404/Flappy-Kiki-s-Delivery-Service)
+An engaging endless runner game where players:
+
+- **Control Kiki**: A young witch flying through the sky.
+- **Collect Coins**: Gather coins to purchase new skins for Kiki.
+- **Avoid Obstacles**: Navigate through mid-air challenges to achieve high scores.
+
+**Features**:
+
+- **Target Audience**: Suitable for children, teenagers, and casual gamers.
+- **Genre**: Platform action and arcade.
+- **Rewards**: Earn a victory cup after passing 20 obstacles and upgrade skins using collected coins.
+
+**Demo**: [Watch the gameplay](https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link)
+
 ### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
 A comprehensive guide to universities in Riyadh, offering:
 
@@ -25,7 +40,7 @@ A comprehensive guide to universities in Riyadh, offering:
 - **Majors**: Lists of majors offered by each institution.
 - **Cafes and Restaurants**: Information on on-campus dining options.
 - **Student Clubs**: Insights into various student organizations.
-- - 🛠️ Built with MongoDB, Node.js, Express.js, HTML, CSS, JavaScript, EJS.
+- 🛠️ Built with MongoDB, Node.js, Express.js, HTML, CSS, JavaScript, EJS.
 
 ### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
 A web application that helps students locate faculty offices at the university. Features include:
