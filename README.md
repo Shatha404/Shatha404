@@ -23,10 +23,11 @@ A comprehensive guide to universities in Riyadh, offering:
 - **Majors**: Lists of majors offered by each institution.
 - **Cafes and Restaurants**: Information on on-campus dining options.
 - **Student Clubs**: Insights into various student organizations.
+- - 🛠️ Built with MongoDB, Node.js, Express.js, HTML, CSS, JavaScript, EJS.
 
 ### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
 A web application that helps students locate faculty offices at the university. Features include:
 - 🔍 **Search faculty offices**.
 - 🔒 **Admin panel** for managing entries.
 - 📱 Fully responsive design.
-- 🛠️ Built with PHP, MySQL, HTML, CSS, and JavaScript.
+- 🛠️ Built with PHP, MySQL, HTML, CSS, and JavaScript,Bootstrap.
