@@ -77,4 +77,4 @@ Explore the game [here](https://shatha404.github.io/GamersDayadv/).
 ## 📫 Contact Information
 - **Email**: [shathaalyousef@outlook.com](mailto:shathaalyousef@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/shatha-alyousef](https://linkedin.com/in/shatha-alyousef)
-- **X: [@Shatha404](https://twitter.com/Shatha404)
+- **X**: [@Shatha404](https://twitter.com/Shatha404)
