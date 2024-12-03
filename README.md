@@ -4,7 +4,9 @@ I am a senior computer science student with a strong foundation in Artificial In
 
 # 🌟 Interests and Expertise
 • 🤖 AI & Machine Learning: Passionate about developing intelligent systems that solve real-world problems.
+
 • 💻 Web Development: Building responsive, efficient, and user-friendly applications.
+
 • 🌱 Natural Language Processing (NLP): Bridging the gap between human language and machines.
 
 # 🚀 Mission
