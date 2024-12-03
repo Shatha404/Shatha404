@@ -9,7 +9,7 @@ I am a senior computer science student with a strong foundation in Artificial In
 
 • 🌱 Natural Language Processing (NLP): Bridging the gap between human language and machines.
 
-# 🚀 Mission
+## 🚀 Mission
 I aim to create impactful solutions by combining AI and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
 
 ## 🛠️ Technical Skills
@@ -68,3 +68,13 @@ An engaging game developed with:
 - **JavaScript**: Implementing game logic and interactivity.
 
 Explore the game [here](https://shatha404.github.io/GamersDayadv/).
+
+
+## 🌟 Extracurricular Activities
+- **Web Developer** — GDSC (Google Developer Student Club), Imam Mohammad Ibn Saud Islamic University (Sep 2023 – Sep 2024)  
+- **Report Committee Member** — Algorithm Club, Imam Mohammad Ibn Saud Islamic University (Sep 2022 – Sep 2023)
+  
+## 📫 Contact Information
+- **Email**: [shathaalyousef@outlook.com](mailto:shathaalyousef@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/shatha-alyousef](https://linkedin.com/in/shatha-alyousef)
+- **X: [@Shatha404](https://twitter.com/Shatha404)
