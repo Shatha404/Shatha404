@@ -14,7 +14,7 @@ I aim to create impactful solutions by combining AI and web technologies, with a
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, Java, JavaScript, C#, PHP, SQL  
-- **Web Development**: HTML5, CSS3, EJS, Node.js, Express.js  
+- **Web Development**: HTML, CSS, EJS, Node.js, Express.js  
 - **Database Management**: MongoDB, MySQL  
 - **Game Development**: Unity, C# scripting  
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Vision Transformers (ViT), CNNs  
