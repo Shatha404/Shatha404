@@ -1,15 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Shatha! 👋
 
-<!--
-**Shatha404/Shatha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior computer science student with a strong foundation in Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and web development. I aspire to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems.
 
-Here are some ideas to get you started:
+# 🌟 Interests and Expertise
+🤖 AI & Machine Learning: Passionate about developing intelligent systems that solve real-world problems.
+💻 Web Development: Building responsive, efficient, and user-friendly applications.
+🌱 Natural Language Processing (NLP): Bridging the gap between human language and machines.
 
-- 🔭 I’m currently working on DeepEye ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: shathaalyousef@outlook.com 
-- ⚡ Fun fact: ...
--->
+# 🚀 Mission
+I aim to create impactful solutions by combining AI and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
