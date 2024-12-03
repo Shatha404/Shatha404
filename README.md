@@ -36,11 +36,7 @@ An engaging endless runner game where players
 A comprehensive guide to universities in Riyadh, offering.
 
 #### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
-A web application that helps students locate faculty offices at the university. Features include:
-- 🔍 **Search faculty offices**.
-- 🔒 **Admin panel** for managing entries.
-- 📱 Fully responsive design.
-- 🛠️ Built with PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+A faculty office locator web application developed with PHP and MySQL, featuring an admin panel for managing entries.
 
 #### [GamersDayadv](https://github.com/Shatha404/GamersDayadv)
 A fun and engaging puzzle-solving game.
