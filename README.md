@@ -21,7 +21,6 @@ I aim to create impactful solutions by combining AI and web technologies, with a
 - **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib. 
 - **Version Control**: Git, GitHub  
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
-- **Soft Skills**: Teamwork, Problem-solving, Analytical Thinking, Communication, Time Management, Adaptability  
 
 ### 🚀 Projects
 #### currently working on [deepEye]👁️ 
