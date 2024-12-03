@@ -32,4 +32,13 @@ A web application that helps students locate faculty offices at the university. 
 - 🔍 **Search faculty offices**.
 - 🔒 **Admin panel** for managing entries.
 - 📱 Fully responsive design.
-- 🛠️ Built with PHP, MySQL, HTML, CSS, and JavaScript,Bootstrap.
+- 🛠️ Built with PHP, MySQL, HTML, CSS, and JavaScript, Bootstrap.
+
+### [GamersDayadv](https://github.com/Shatha404/GamersDayadv)
+An engaging game developed with:
+
+- **HTML**: Structuring the game's content.
+- **CSS**: Styling and layout design.
+- **JavaScript**: Implementing game logic and interactivity.
+
+Explore the game [here](https://github.com/Shatha404/GamersDayadv).
