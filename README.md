@@ -46,12 +46,7 @@ A web application that helps students locate faculty offices at the university. 
 ### [GamersDayadv](https://github.com/Shatha404/GamersDayadv)
 An engaging game developed with
 Explore the game [here](https://shatha404.github.io/GamersDayadv/).
-
-
-## 🌟 Extracurricular Activities
-- **Web Developer** — GDSC (Google Developer Student Club), Imam Mohammad Ibn Saud Islamic University (Sep 2023 – Sep 2024)  
-- **Report Committee Member** — Algorithm Club, Imam Mohammad Ibn Saud Islamic University (Sep 2022 – Sep 2023)
-  
+ 
 ## 📫 Contact Information
 - **Email**: [shathaalyousef@outlook.com](mailto:shathaalyousef@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/shatha-alyousef](https://linkedin.com/in/shatha-alyousef)
