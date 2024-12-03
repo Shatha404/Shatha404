@@ -29,8 +29,8 @@ A hybrid AI model for detecting and classifying the five stages of Diabetic Reti
 - 🌐 Web-based interface for easy access by healthcare professionals.
 
 #### [Flappy Kiki's Delivery Service](https://github.com/Shatha404/Flappy-Kiki-s-Delivery-Service)
-An engaging endless runner game where players
-**Demo**: [Watch the gameplay](https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link)
+An endless runner game where players control Kiki, collect coins, and avoid obstacles.
+- **Demo**: [Watch the gameplay](https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link)
 
 #### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
 A comprehensive guide to universities in Riyadh, offering.
