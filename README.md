@@ -9,3 +9,24 @@ I am a senior computer science student with a strong foundation in Artificial In
 
 # 🚀 Mission
 I aim to create impactful solutions by combining AI and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
+
+## 🚀 Projects
+### currently working on [deepEye]👁️ 
+A hybrid AI model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with:
+- 🧠 Integration of CNN and Vision Transformers.
+- 🌐 Web-based interface for easy access by healthcare professionals.
+
+### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
+A comprehensive guide to universities in Riyadh, offering:
+
+- **University Information**: Detailed descriptions and images of universities.
+- **Majors**: Lists of majors offered by each institution.
+- **Cafes and Restaurants**: Information on on-campus dining options.
+- **Student Clubs**: Insights into various student organizations.
+
+### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
+A web application that helps students locate faculty offices at the university. Features include:
+- 🔍 **Search faculty offices**.
+- 🔒 **Admin panel** for managing entries.
+- 📱 Fully responsive design.
+- 🛠️ Built with PHP, MySQL, HTML, CSS, and JavaScript.
