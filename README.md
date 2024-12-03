@@ -41,4 +41,4 @@ An engaging game developed with:
 - **CSS**: Styling and layout design.
 - **JavaScript**: Implementing game logic and interactivity.
 
-Explore the game [here](https://github.com/Shatha404/GamersDayadv).
+Explore the game [here](https://shatha404.github.io/GamersDayadv/).
