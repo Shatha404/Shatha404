@@ -19,7 +19,6 @@ I aim to create impactful solutions by combining AI and web technologies, with a
 - **Game Development**: Unity, C# scripting  
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Vision Transformers (ViT), CNNs  
 - **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib. 
-- **Version Control**: Git, GitHub  
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ### 🚀 Projects
