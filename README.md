@@ -34,6 +34,9 @@ An endless runner game where players control Kiki, collect coins, and avoid obst
 #### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
 A comprehensive guide to universities in Riyadh, offering.
 
+### [SudokuGame](https://github.com/Shatha404/SudokuGame)
+build Sudoku Game using AI approach.
+
 #### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
 A faculty office locator web application developed with PHP and MySQL, featuring an admin panel for managing entries.
 
