@@ -18,7 +18,7 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 - **Database Management**: MongoDB, MySQL  
 - **Game Development**: Unity, C#   
 - **Machine Learning & AI**: Scikit-learn 
-- **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib 
+- **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, matplotlib 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
@@ -39,13 +39,11 @@ An endless runner game where players control Kiki, collect coins and avoid obsta
 A comprehensive guide to universities in Riyadh.
 
 #### [SudokuGame](https://github.com/Shatha404/SudokuGame)
-Developed a Sudoku game using Python and Pygame with the following features:
- - Algorithm Implementation: Integrated backtracking and AC-3 algorithms for efficient puzzle solving.
- - Interactive User Interface: Designed a dynamic grid allowing real-time number input and visual feedback.
- - Validation and Feedback: Implemented solution validation with celebratory win messages for successful completion.
- - User-Friendly Design: Added features like reset options and error handling for enhanced usability
+Forward Checking Algorithm: Used to reduce invalid possibilities during the solving process for improved efficiency.
+Backtracking and AC-3 Algorithms: Combined with Forward Checking to ensure accurate and efficient puzzle solving.
+Interactive User Interface: Designed a dynamic grid allowing real-time number input, visual feedback, solution validation, and celebratory win messages upon successful completion.
 
-#### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
+#### [Find Your Way](https://github.com/Shatha404/findYourWay)
 A faculty office locator web application developed with PHP and MySQL features an admin panel for managing entries.
 
 #### [GamersDayadv](https://github.com/Shatha404/GamersDayadv)
