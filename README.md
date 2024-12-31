@@ -10,14 +10,14 @@ I am a senior computer science student with a strong foundation in Artificial In
 • 🌱 Natural Language Processing (NLP): Bridging the gap between human language and machines.
 
 ### 🚀 Mission
-I aim to create impactful solutions by combining AI and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
+I aim to create impactful solutions by combining Artificial intelligence and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, Java, JavaScript, C#, PHP, SQL  
 - **Web Development**: HTML, CSS, EJS, Node.js, Express.js  
 - **Database Management**: MongoDB, MySQL  
-- **Game Development**: Unity, C# scripting  
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Vision Transformers (ViT), CNNs  
+- **Game Development**: Unity, C#   
+- **Machine Learning & AI**: Scikit-learn 
 - **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib. 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
@@ -27,7 +27,7 @@ A hybrid AI model for detecting and classifying the five stages of Diabetic Reti
 - 🧠 hybrid deep learning model
 - 🌐 Web-based interface for easy access by healthcare professionals.
 
-### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
+#### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
 This project classifies Arabic documents into predefined categories (Economy, International News, Local News, Sports) using Naive Bayes and Natural Language Processing (NLP) techniques. It includes:
  - Data preprocessing (text cleaning and feature extraction).
  - Model training and evaluation.
@@ -40,7 +40,7 @@ An endless runner game where players control Kiki, collect coins and avoid obsta
 #### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
 A comprehensive guide to universities in Riyadh, offering.
 
-### [SudokuGame](https://github.com/Shatha404/SudokuGame)
+#### [SudokuGame](https://github.com/Shatha404/SudokuGame)
 Developed a Sudoku game using Python and Pygame with the following features:
 
  - Algorithm Implementation: Integrated backtracking and AC-3 algorithms for efficient puzzle solving.
