@@ -21,14 +21,20 @@ I aim to create impactful solutions by combining AI and web technologies, with a
 - **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib. 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
-### 🚀 Projects
-#### currently working on [deepEye]👁️ 
+###  Projects
+#### currently working on [deepEye]
 A hybrid AI model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with:
-- 🧠 Integration of CNN and Vision Transformers.
+- 🧠 hybrid deep learning model
 - 🌐 Web-based interface for easy access by healthcare professionals.
 
+### Arabic documents classification (https://github.com/Shatha404/Arabic-documents-classification-)
+This project classifies Arabic documents into predefined categories (Economy, International News, Local News, Sports) using Naive Bayes and Natural Language Processing (NLP) techniques. It includes:
+ - Data preprocessing (text cleaning and feature extraction).
+ - Model training and evaluation.
+ - Deployment through a web application for real-time classification.
+
 #### [Flappy Kiki's Delivery Service](https://github.com/Shatha404/Flappy-Kiki-s-Delivery-Service)
-An endless runner game where players control Kiki, collect coins, and avoid obstacles.
+An endless runner game where players control Kiki, collect coins and avoid obstacles.
 - **Demo**: [Watch the gameplay](https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link)
 
 #### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
@@ -38,7 +44,7 @@ A comprehensive guide to universities in Riyadh, offering.
 build Sudoku Game using AI approach.
 
 #### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
-A faculty office locator web application developed with PHP and MySQL, featuring an admin panel for managing entries.
+A faculty office locator web application developed with PHP and MySQL features an admin panel for managing entries.
 
 #### [GamersDayadv](https://github.com/Shatha404/GamersDayadv)
 A fun and engaging puzzle-solving game.
