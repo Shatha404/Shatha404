@@ -22,7 +22,7 @@ I aim to create impactful solutions by combining Artificial intelligence and web
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
-#### currently working on [deepEye]
+#### currently working on DeepEye
 A hybrid AI model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with:
 - 🧠 hybrid deep learning model
 - 🌐 Web-based interface for easy access by healthcare professionals.
@@ -42,7 +42,6 @@ A comprehensive guide to universities in Riyadh, offering.
 
 #### [SudokuGame](https://github.com/Shatha404/SudokuGame)
 Developed a Sudoku game using Python and Pygame with the following features:
-
  - Algorithm Implementation: Integrated backtracking and AC-3 algorithms for efficient puzzle solving.
  - Interactive User Interface: Designed a dynamic grid allowing real-time number input and visual feedback.
  - Validation and Feedback: Implemented solution validation with celebratory win messages for successful completion.
