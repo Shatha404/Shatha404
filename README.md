@@ -41,7 +41,12 @@ An endless runner game where players control Kiki, collect coins and avoid obsta
 A comprehensive guide to universities in Riyadh, offering.
 
 ### [SudokuGame](https://github.com/Shatha404/SudokuGame)
-build Sudoku Game using AI approach.
+Developed a Sudoku game using Python and Pygame with the following features:
+
+ - Algorithm Implementation: Integrated backtracking and AC-3 algorithms for efficient puzzle solving.
+ - Interactive User Interface: Designed a dynamic grid allowing real-time number input and visual feedback.
+ - Validation and Feedback: Implemented solution validation with celebratory win messages for successful completion.
+ - User-Friendly Design: Added features like reset options and error handling for enhanced usability
 
 #### [Find Your Way](https://github.com/Shatha404/findYourWay) 🚪
 A faculty office locator web application developed with PHP and MySQL features an admin panel for managing entries.
