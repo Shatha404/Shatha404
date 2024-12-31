@@ -27,7 +27,7 @@ A hybrid AI model for detecting and classifying the five stages of Diabetic Reti
 - 🧠 hybrid deep learning model
 - 🌐 Web-based interface for easy access by healthcare professionals.
 
-### Arabic documents classification (https://github.com/Shatha404/Arabic-documents-classification-)
+### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
 This project classifies Arabic documents into predefined categories (Economy, International News, Local News, Sports) using Naive Bayes and Natural Language Processing (NLP) techniques. It includes:
  - Data preprocessing (text cleaning and feature extraction).
  - Model training and evaluation.
