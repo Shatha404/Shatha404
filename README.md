@@ -38,7 +38,7 @@ An endless runner game where players control Kiki, collect coins and avoid obsta
 - **Demo**: [Watch the gameplay](https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link)
 
 #### [UniExploreWebsite](https://github.com/LayanAlrashoud/UniExploreWebsite)
-A comprehensive guide to universities in Riyadh, offering.
+A comprehensive guide to universities in Riyadh.
 
 #### [SudokuGame](https://github.com/Shatha404/SudokuGame)
 Developed a Sudoku game using Python and Pygame with the following features:
