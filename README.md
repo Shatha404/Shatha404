@@ -10,7 +10,7 @@ I am a senior computer science student with a strong foundation in Artificial In
 • 🌱 Natural Language Processing (NLP): Bridging the gap between human language and machines.
 
 ### 🚀 Mission
-I aim to create impactful solutions by combining Artificial intelligence and web technologies, with a focus on innovation, efficiency, and making a difference in the world.
+I aim to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, Java, JavaScript, C#, PHP, SQL  
@@ -18,14 +18,12 @@ I aim to create impactful solutions by combining Artificial intelligence and web
 - **Database Management**: MongoDB, MySQL  
 - **Game Development**: Unity, C#   
 - **Machine Learning & AI**: Scikit-learn 
-- **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib. 
+- **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, Matplotlib 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
 #### currently working on DeepEye
-A hybrid AI model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with:
-- 🧠 hybrid deep learning model
-- 🌐 Web-based interface for easy access by healthcare professionals.
+A hybrid deep model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with a Web-based interface for easy access by healthcare professionals.
 
 #### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
 This project classifies Arabic documents into predefined categories (Economy, International News, Local News, Sports) using Naive Bayes and Natural Language Processing (NLP) techniques. It includes:
