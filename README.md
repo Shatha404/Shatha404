@@ -39,9 +39,9 @@ An endless runner game where players control Kiki, collect coins and avoid obsta
 A comprehensive guide to universities in Riyadh.
 
 #### [SudokuGame](https://github.com/Shatha404/SudokuGame)
-Forward Checking Algorithm: Used to reduce invalid possibilities during the solving process for improved efficiency.
-Backtracking and AC-3 Algorithms: Combined with Forward Checking to ensure accurate and efficient puzzle solving.
-Interactive User Interface: Designed a dynamic grid allowing real-time number input, visual feedback, solution validation, and celebratory win messages upon successful completion.
+ - Forward Checking Algorithm: Used to reduce invalid possibilities during the solving process for improved efficiency.
+ - Backtracking and AC-3 Algorithms: Combined with Forward Checking to ensure accurate and efficient puzzle solving.
+ - Interactive User Interface: Designed a dynamic grid allowing real-time number input, visual feedback, solution validation, and celebratory win messages upon successful completion.
 
 #### [Find Your Way](https://github.com/Shatha404/findYourWay)
 A faculty office locator web application developed with PHP and MySQL features an admin panel for managing entries.
