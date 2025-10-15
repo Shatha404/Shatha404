@@ -18,7 +18,7 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 - **Database Management**: MongoDB, MySQL  
 - **Game Development**: Unity, C#   
 - **Machine Learning & AI**: Scikit-learn 
-- **Visualization & Analysis Tools**: MS Excel, Tableau, seaborn, matplotlib 
+- **Visualization & Analysis Tools**: Power BI, Tableau, seaborn, matplotlib 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
