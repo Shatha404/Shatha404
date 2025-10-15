@@ -58,6 +58,6 @@ A faculty office locator web application developed with PHP and MySQL features a
 A fun and engaging puzzle-solving game.
 - Explore the game [here](https://shatha404.github.io/GamersDayadv/).
  
-### 📫 Contact Information
+## 📫 Contact Information
 - **Email**: [shathaalyousef@outlook.com](mailto:shathaalyousef@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/shatha-alyousef](https://linkedin.com/in/shatha-alyousef)
