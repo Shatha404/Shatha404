@@ -23,14 +23,22 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 
 ###  Projects
 #### DeepEye
-A hybrid deep model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with a Web-based interface for easy access by healthcare professionals.
+- Built a hybrid deep learning model (CNN + Vision Transformer) for early DR
+diagnosis.
+- integrated into a web platform enabling healthcare professionals to upload retinal images and receive diagnostic results.
 
+#### [Arabic Fact-Checking with AraBERT](https://github.com/Shatha404/AraFact)
+- Fine-tuned AraBERT on the AraFacts dataset, achieving 91% accuracy.
+- Applied advanced preprocessing for robust Arabic fact-checking.
+- Visualized model performance using matplotlib
+  
 #### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
 This project classifies Arabic documents into predefined categories (Economy, International News, Local News, Sports) using Naive Bayes and Natural Language Processing (NLP) techniques. It includes:
  - Data preprocessing (text cleaning and feature extraction).
  - Model training and evaluation.
  - Deployment through a web application for real-time classification.
-### [Stroke Prediction Using Machine Learning](https://github.com/Shatha404/stroke-Prediction)
+   
+#### [Stroke Prediction Using Machine Learning](https://github.com/Shatha404/stroke-Prediction)
 This project explores the application of machine learning models to predict the likelihood of a stroke based on health and social attributes.
 
 #### [Flappy Kiki's Delivery Service](https://github.com/Shatha404/Flappy-Kiki-s-Delivery-Service)
