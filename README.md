@@ -22,7 +22,7 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
-#### currently working on DeepEye
+#### DeepEye
 A hybrid deep model for detecting and classifying the five stages of Diabetic Retinopathy (DR) with a Web-based interface for easy access by healthcare professionals.
 
 #### [Arabic documents classification](https://github.com/Shatha404/Arabic-documents-classification-)
@@ -30,6 +30,8 @@ This project classifies Arabic documents into predefined categories (Economy, In
  - Data preprocessing (text cleaning and feature extraction).
  - Model training and evaluation.
  - Deployment through a web application for real-time classification.
+### [Stroke Prediction Using Machine Learning](https://github.com/Shatha404/stroke-Prediction)
+This project explores the application of machine learning models to predict the likelihood of a stroke based on health and social attributes.
 
 #### [Flappy Kiki's Delivery Service](https://github.com/Shatha404/Flappy-Kiki-s-Delivery-Service)
 An endless runner game where players control Kiki, collect coins and avoid obstacles.
