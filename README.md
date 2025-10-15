@@ -3,11 +3,9 @@
 I am a senior computer science student with a strong foundation in Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and web development. I aspire to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems.
 
 ### 🌟 Interests and Expertise
-• 🤖 AI & Machine Learning
-
-• 💻 Web Development
-
-• 🌱 Natural Language Processing (NLP)
+•  AI & Machine Learning
+•  Web Development
+•  Natural Language Processing (NLP)
 
 ### 🚀 Mission
 I aim to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems
@@ -22,7 +20,7 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
 ###  Projects
-#### DeepEye
+#### [DeepEye](https://github.com/LayanAlrashoud/Diabetic-retinopathy-Project)
 - Built a hybrid deep learning model (CNN + Vision Transformer) for early DR
 diagnosis.
 - integrated into a web platform enabling healthcare professionals to upload retinal images and receive diagnostic results.
