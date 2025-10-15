@@ -1,6 +1,6 @@
 # Hi there, I'm Shatha! 👋
 
-I am a senior computer science student with a strong foundation in Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and web development. I aspire to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems.
+I am a Computer Science graduate with a strong foundation in Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and web development. I aspire to leverage my skills and expertise to integrate AI solutions with web technologies, creating innovative and efficient data-driven systems.
 
 ### 🌟 Interests and Expertise
 •  AI & Machine Learning
@@ -19,7 +19,7 @@ I aim to leverage my skills and expertise to integrate AI solutions with web tec
 - **Visualization & Analysis Tools**: Power BI, Tableau, seaborn, matplotlib 
 - **Frameworks & Tools**: Bootstrap, React, Agile methodologies  
 
-###  Projects
+##  Projects
 #### [DeepEye](https://github.com/LayanAlrashoud/Diabetic-retinopathy-Project)
 - Built a hybrid deep learning model (CNN + Vision Transformer) for early DR
 diagnosis.
